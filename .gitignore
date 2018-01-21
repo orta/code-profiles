@@ -12,3 +12,5 @@ phantomjs*
 **/data/storage.json
 **/data/*.sock
 **/data/User/workspaceStorage
+egghead/data/CachedExtensions/
+egghead/data/logs
